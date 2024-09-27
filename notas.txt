@@ -1,12 +1,24 @@
+Todo  esto es para un  repo personal (trabajo individual)
+Crear un repo
 git init inicia el repository
 git add . agrega todo el contenido al repo vacío (ya no está vacío)
 git commit - m "MEnsaje descritivo". Puntos de restauración de un proyecto.
 git remote add origin 'url' (EL enlace del repository)
+----------------------------------------------------------------
+Crear una rama
 git push -u origin master/main 
+----------------------------------------------------------------
+Crear un push de la nueva rama
+git add. 
+git commit -m "MEnsaje descritivo". 
+git push -u origin arreglos 
+----------------------------------------------------------------
+Crear larama Arreglos
 
 antes de empezar cualquier programación, hacer el git checkout -b (nombre de la nueva rama:arreglos)
-
-
+cuando estoy trabajando solo, hacer el push origin 
+----------------------------------------------------------------
+Clase: arreglos.
 ARREGLOS
 lOS ARREGLOS SON UN ESPACIO DE MEMORIA QUE ALMACENA MULKTIPLES VALORES.
 TAMBIÉN SON UN CONJUNTO DE DATOS (CUALQUIER TIPO DE DATO)
@@ -14,3 +26,8 @@ TAMBIÉN SON UN CONJUNTO DE DATOS (CUALQUIER TIPO DE DATO)
     COSAS IMPORTANTES DE UN ARREGLO: 
     TAMAÑO -> HACE REFRENCIA A LA CANTIDAD DE ELEMENTOS DENTRO DEL ARREGLO 
     POSICIÓN -> HACE REFRENCIA A LA CANTIDAD DE ELEMENTOS -1
+
+    Recorrido - > Se utilza para buscar informacipon
+    Llenado -> Se utiliza para alimentar el arreglo de información
+
+    
