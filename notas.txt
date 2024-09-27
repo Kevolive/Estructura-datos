@@ -1,0 +1,16 @@
+git init inicia el repository
+git add . agrega todo el contenido al repo vacío (ya no está vacío)
+git commit - m "MEnsaje descritivo". Puntos de restauración de un proyecto.
+git remote add origin 'url' (EL enlace del repository)
+git push -u origin master/main 
+
+antes de empezar cualquier programación, hacer el git checkout -b (nombre de la nueva rama:arreglos)
+
+
+ARREGLOS
+lOS ARREGLOS SON UN ESPACIO DE MEMORIA QUE ALMACENA MULKTIPLES VALORES.
+TAMBIÉN SON UN CONJUNTO DE DATOS (CUALQUIER TIPO DE DATO)
+
+    COSAS IMPORTANTES DE UN ARREGLO: 
+    TAMAÑO -> HACE REFRENCIA A LA CANTIDAD DE ELEMENTOS DENTRO DEL ARREGLO 
+    POSICIÓN -> HACE REFRENCIA A LA CANTIDAD DE ELEMENTOS -1
